@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ERSA</string>
+    <string name="long_app_name">Emergency Room Survey</string>
+    <string name="thankyou">Thank you for choosing MidMichigan Health.</string>
+    <string name="proud">We are proud to serve you today.</string>
+    <string name="motivation">Your responses to the following questions help us provide better care to you and all of our patients.</string>
+    <string name="prompt">Click the button below to begin the survey.</string>
+    <string name="btn_start">Start</string>
+    <string name="question1">1. Have you ever been a patient at MidMichigan Health before?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="btn_next">Next</string>
+    <string name="question2y">2. When was your last visit?</string>
+    <string name="question2n">2. Why did you choose MidMichigan Health?</string>
+    <string name="recommendation">Recommendation from friends or family</string>
+    <string name="proximity">Closest option to home</string>
+    <string name="online">Saw an ad online</string>
+    <string name="billboard">Saw a billboard</string>
+    <string name="question3">3. Do you have any other comments, questions, or concerns?</string>
+    <string name="placeholder">Write here...</string>
+    <string name="btn_finish">Finish</string>
+    <string name="confirmation">Your responses have been submitted.</string>
+    <string name="appreciation">We appreciate you taking the time to help us strive for excellence in care.</string>
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+</resources>
